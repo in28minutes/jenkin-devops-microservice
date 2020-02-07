@@ -191,7 +191,7 @@
 					<!--<argLine>${jacoco.itAgentConfig}</argLine> -->
 					<includes>
 						<!--<include>**/*ApplicationTests.java</include> -->
-						<include>**/*IntegrationTestCase.java</include>
+						<include>**/*CucumberIntegrationTestCase.java</include>
 					</includes>
 				</configuration>
 			</plugin>
